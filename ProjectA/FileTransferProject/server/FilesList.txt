@@ -1,0 +1,5 @@
+notes.txt localhost
+factures.txt localhost
+test.txt localhost
+tello.txt 127.0.0.1:5000
+rachid.txt 127.0.0.1:2020
